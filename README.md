@@ -8,15 +8,18 @@ yarn
 
 Build the project for the first time
 
-```cd server
+```sh
+cd server
 yarn codegen
 ```
 
-```cd client
+```sh
+cd client
 yarn codegen
 ```
 
-```in home directory
+```sh 
+in home directory
 yarn build
 ```
 
